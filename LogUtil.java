@@ -1,16 +1,7 @@
-/**
- * Alipay.com Inc. Copyright (c) 2004-2020 All Rights Reserved.
- */
-package com.cainiao.moore.template.utils;
-
 import com.taobao.eagleeye.EagleEye;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 
-/**
- * @author zhejian.wj
- * @version $Id: LogUtil, v 0.1 2020-12-16 14:03 zhejian.wj Exp $
- */
 public class LogUtil {
 
     /** 摘要日志的内容分隔符 */
